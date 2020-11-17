@@ -1,4 +1,4 @@
-=== Advanced Custom Fields: Image Point Selector Field ===
+=== Image Point Selector Field for Advanced Custom Fields ===
 Contributors: Oskari Gronroos
 Tags: image, map, point
 Requires at least: 3.6.0
