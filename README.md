@@ -1,4 +1,4 @@
-# Advanced Custom Fields: Image Point Selector Field
+# Image Point Selector Field for Advanced Custom Fields
 
 Creates a field that allows the admin to select a point on an image specific to the field.  Ideal for letting the admin define post-specific pins on a static image of a map that remains the same between posts.
 
