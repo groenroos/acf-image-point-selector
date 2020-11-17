@@ -50,7 +50,7 @@ class ips_acf_plugin_image_point_selector {
 		
 		// include field
 		add_action('acf/include_field_types', 	array($this, 'include_field')); // v5
-		add_action('acf/register_fields', 		array($this, 'include_field')); // v4
+		//add_action('acf/register_fields', 		array($this, 'include_field')); // v4
 	}
 	
 	
@@ -70,7 +70,7 @@ class ips_acf_plugin_image_point_selector {
 	function include_field( $version = false ) {
 		
 		// support empty $version
-		if( !$version ) $version = 4;
+		if( !$version ) $version = 5;
 		
 		
 		// load textdomain
