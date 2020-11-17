@@ -17,14 +17,12 @@ Allows selecting a point on a predefined image.
 
 This ACF field type is compatible with:
 * ACF 5
-* ACF 4
 
 == Installation ==
 
 1. Copy the `acf-image-point-selector` folder into your `wp-content/plugins` folder
 2. Activate the Image Point Selector plugin via the plugins admin page
 3. Create a new field via ACF and select the Image Point Selector type
-4. Read the description above for usage instructions
 
 == Changelog ==
 
