@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Advanced Custom Fields: Image Point Selector
+Plugin Name: Image Point Selector Field for Advanced Custom Fields
 Plugin URI: https://github.com/groenroos/acf-image-point-selector/
 Description: Allows selecting a point on a predefined image.
 Version: 1.0.0
